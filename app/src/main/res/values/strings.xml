@@ -1,0 +1,8 @@
+<resources>
+    <string name="app_name">Sales View</string>
+    <string name="tab_text_1">Sales</string>
+    <string name="tab_text_2">Costumer Details</string>
+    <string name="title_history">History</string>
+    <string name="title_stocklist">StockList</string>
+    <string name="title_logs">Logs</string>
+</resources>
