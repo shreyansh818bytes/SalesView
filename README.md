@@ -1,2 +1,2 @@
 # SalesView
-Master App for Sales View App.
+Master App for Sales System Project.
